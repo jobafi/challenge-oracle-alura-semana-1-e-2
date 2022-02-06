@@ -6,11 +6,11 @@
 
 ## Challenge Oracle ONE Semana 01 e 02: Construa um decodificador de texto com Javascript
 
-Esta aplicação é a primeira de uma série de Challenges que componhem o **Projeto ONE**, uma ação da Oracle em parceria com o Grupo Alura.
+Esta aplicação é a primeira de uma série de Challenges que compõem o **Projeto ONE**, uma ação da Oracle em parceria com o Grupo Alura.
 
-Você pode conhecer mais sobre o projeto clicando [aqui](https://www.oracle.com/br/education/oracle-next-education/) e [aqui](https://www.alura.com.br/oracle-next-education).
+Você pode conhecer mais sobre o Projeto ONE clicando [aqui](https://www.oracle.com/br/education/oracle-next-education/) e [aqui](https://www.alura.com.br/oracle-next-education).
  
- 
+Página da aplicação [aqui](https://jobafi.github.io/challenge-oracle-alura-semana-1-e-2/.)
 
 ## Tecnologias usadas:
 * **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
