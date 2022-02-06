@@ -12,7 +12,9 @@ Não permite acentuação
 document.getElementById("btn-cripto").onclick = encrypt;
 document.getElementById("btn-descripto").onclick = decrypt;
 
-function encrypt() {
+function encrypt(event) {
+  
+  event.preventDefault();
 
   var input1 = document.getElementById("input-texto");
   var textString = "";
@@ -41,8 +43,10 @@ Apenas letras minúsculas
 Não permite acentuação     
 */
 
-function decrypt() {
+function decrypt(event) {
 
+  event.preventDefault();
+  
   var input1 = document.getElementById("input-texto");
   var textForDecrypt = input1.value;
 
