@@ -19,7 +19,7 @@ Você pode conhecer mais sobre o projeto clicando [aqui](https://www.oracle.com/
 * **[Markdown](https://daringfireball.net/projects/)**
 
 
-## Farramentas:
+## Ferramentas:
 * **[Visual Studio Code](https://code.visualstudio.com/)**
 * **[Git](https://git-scm.com/)**
 * **[GitHub](https://github.com/)**
