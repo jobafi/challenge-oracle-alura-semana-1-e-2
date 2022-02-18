@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="image/logo-challenge.svg" alt="Logo Challenge">
+    <img src="image/tela.PNG" alt="Logo Challenge">
 </h1>
 
 # Sobre
