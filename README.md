@@ -25,7 +25,7 @@ Página da aplicação [aqui](https://jobafi.github.io/challenge-oracle-alura-se
 * **[GitHub Desktop](https://desktop.github.com/)**
 
 
-## Recursos ultilizados:
+## Recursos utilizados:
 * **[GitHub](https://github.com/)**
 * **[GitHub Pages](https://pages.github.com/)**
 
